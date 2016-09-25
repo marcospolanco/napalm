@@ -1,0 +1,16 @@
+{
+  "name": "@marcospolanco/napalm",
+  "version": "0.0.1",
+  "description": "Empathic Audio",
+  "repository" : "https://github.com/marcospolanco/napalm.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Marcos Polanco",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
